@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnguyen-de&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](#)
 
 <!--
 **cnguyen-de/cnguyen-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
